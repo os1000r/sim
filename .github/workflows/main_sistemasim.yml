@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'sistemasim'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0EA50E86B9C6422EA4386C66D4F2AF8F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9886C75969F44EA581CF54CFB241C3B6 }}
           package: .
